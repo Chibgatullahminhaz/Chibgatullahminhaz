@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Chibatullah Minhaz
 #### I'm web Application & Android application developer
-![I'm web & cross application developer](https://scontent.fdac2-1.fna.fbcdn.net/v/t39.30808-6/426363506_414508167665145_323018278846547143_n.png?stp=dst-png_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeEjo1m_mZPdXR7ocXQETJkthFZ1i3OH30mEVnWLc4ffSS47nN7-G7VDOWE2VlJu8Phb15P_I5GgNsrBt9LyjssT&_nc_ohc=d5qW6yIISqEAX-k8gQB&_nc_zt=23&_nc_ht=scontent.fdac2-1.fna&oh=00_AfA-acKSaAeprLLlIqCXX0mO7dMd53mij5TQTgpNAlVH9Q&oe=65D56589)
+![I'm web & cross application developer](https://res.cloudinary.com/practicaldev/image/fetch/s--XU5AWwwZ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/drquzbncy/image/upload/v1586605549/javascript_banner_sxve2l.jpg)
 
 Love to learn new skills always😊
 
