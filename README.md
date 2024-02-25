@@ -3,6 +3,8 @@
 #### I'm web Application & Android application developer
 ![I'm web & cross application developer](https://res.cloudinary.com/practicaldev/image/fetch/s--XU5AWwwZ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/drquzbncy/image/upload/v1586605549/javascript_banner_sxve2l.jpg)
 
+![I'm web & cross application developer](https://miro.medium.com/v2/resize:fit:1358/1*U62pEikCBvM1gjIDlAry7Q.png)
+
 Love to learn new skills always😊
 
 
