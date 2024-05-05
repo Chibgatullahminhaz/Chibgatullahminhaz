@@ -15,7 +15,7 @@ Love to learn new skills always😊
 
 
 - 🔭 I’m currently working on learning new skills 
-- 🌱 I’m currently learning Java, JavaScript, Pyhton 
+- 🌱 I’m currently learning Java, JavaScript,TypeScript, Pyhton 
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with on yout project 
 
