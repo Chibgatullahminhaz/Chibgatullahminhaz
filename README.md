@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Chibatullah Minhaz
-#### I'm web Application developer(MERN)
+#### I'm web Application developer (MERN)
 ![I'm web & cross application developer](https://res.cloudinary.com/practicaldev/image/fetch/s--XU5AWwwZ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/drquzbncy/image/upload/v1586605549/javascript_banner_sxve2l.jpg)
 
 
