@@ -3,12 +3,9 @@
 #### I'm web Application developer (MERN)
 ![I'm web & cross application developer](https://res.cloudinary.com/practicaldev/image/fetch/s--XU5AWwwZ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/drquzbncy/image/upload/v1586605549/javascript_banner_sxve2l.jpg)
 
-![I'm a mern stack developer](https://digital-dividend.se/wp-content/uploads/2023/06/MERN-Stack-Banner.jpg)
+![I'm a mern stack developer]([https://digital-dividend.se/wp-content/uploads/2023/06/MERN-Stack-Banner.jpg](https://media.licdn.com/dms/image/D4D12AQHkJNWKG5d22A/article-cover_image-shrink_720_1280/0/1687767682423?e=2147483647&v=beta&t=JZ6YElxeXtdm5qV9VtH7z_Z7oBHyJXuQXfTEaYhcMks))
 
-![I'm a python developer](https://media.licdn.com/dms/image/D5612AQHnOyL9HNOU1g/article-cover_image-shrink_720_1280/0/1687799881092?e=2147483647&v=beta&t=J6qE07ceFFQMOqCeLDq11jv9FsBWvt4Hfv9t1LjlHVs
-)
-
-![I'm a java developer](https://www.devopsschool.com/blog/wp-content/uploads/2022/03/java_logo_icon_168609.png)
+![I'm a java and python developer](https://www.skillreactor.io/blog/wp-content/uploads/2024/03/Python-vs-Java.png)
 
 Love to learn new skills always😊
 
