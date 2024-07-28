@@ -3,9 +3,9 @@
 #### I'm web Application developer (MERN)
 ![I'm web & cross application developer](https://res.cloudinary.com/practicaldev/image/fetch/s--XU5AWwwZ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/drquzbncy/image/upload/v1586605549/javascript_banner_sxve2l.jpg)
 
-![I'm a mern stack developer]([https://digital-dividend.se/wp-content/uploads/2023/06/MERN-Stack-Banner.jpg](https://media.licdn.com/dms/image/D4D12AQHkJNWKG5d22A/article-cover_image-shrink_720_1280/0/1687767682423?e=2147483647&v=beta&t=JZ6YElxeXtdm5qV9VtH7z_Z7oBHyJXuQXfTEaYhcMks))
+![I'm a mern stack developer](https://media.licdn.com/dms/image/D4D12AQHkJNWKG5d22A/article-cover_image-shrink_720_1280/0/1687767682423?e=2147483647&v=beta&t=JZ6YElxeXtdm5qV9VtH7z_Z7oBHyJXuQXfTEaYhcMks)
 
-![I'm a java and python developer](https://www.skillreactor.io/blog/wp-content/uploads/2024/03/Python-vs-Java.png)
+![I'm a java and python developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDlZluU-B8gIMhzgQIxNXuTDmx2QxTeAHQtoewnXFpx8xBrrGxRgSzCpxHjwSl98rQYp0&usqp=CAU)
 
 Love to learn new skills always😊
 
