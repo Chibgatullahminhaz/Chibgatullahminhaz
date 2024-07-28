@@ -3,7 +3,7 @@
 #### I'm web Application developer (MERN)
 ![I'm web & cross application developer](https://res.cloudinary.com/practicaldev/image/fetch/s--XU5AWwwZ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/drquzbncy/image/upload/v1586605549/javascript_banner_sxve2l.jpg)
 
-![I'm web & cross application developer]([https://res.cloudinary.com/practicaldev/image/fetch/s--XU5AWwwZ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/drquzbncy/image/upload/v1586605549/javascript_banner_sxve2l.jpg](https://www.devopsschool.com/blog/wp-content/uploads/2022/03/java_logo_icon_168609.png))
+![I'm web & cross application developer](https://www.devopsschool.com/blog/wp-content/uploads/2022/03/java_logo_icon_168609.png)
 
 Love to learn new skills always😊
 
