@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Chibatullah Minhaz
 #### I'm web Application developer (MERN)
-![I'm web & cross application developer](https://res.cloudinary.com/practicaldev/image/fetch/s--XU5AWwwZ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/drquzbncy/image/upload/v1586605549/javascript_banner_sxve2l.jpg)
+![I'm web & cross application developer](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 ![I'm a mern stack developer](https://media.licdn.com/dms/image/D4D12AQHkJNWKG5d22A/article-cover_image-shrink_720_1280/0/1687767682423?e=2147483647&v=beta&t=JZ6YElxeXtdm5qV9VtH7z_Z7oBHyJXuQXfTEaYhcMks)
 
