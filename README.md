@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Chibgatullah Minhaz</h1>
-<h3 align="center">I'm a JavaScript Full Stack developer from Bangladesh</h3>
 
 ![I'm web application developer](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
